@@ -1,7 +1,7 @@
 # FileSystemOrganizer
 This is a script which organizes the different types of files into respective folder of their type.
 
-##usage
+## Usage
 
 To know the available commands
 ```bash
